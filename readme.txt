@@ -14,3 +14,5 @@ STM32F407ZGT6   VS Code + gcc
 	launch.json					程序编译输出elf文件路径
 其它
     HSE: 8MHz
+	
+Video: https://www.bilibili.com/video/av54707666
